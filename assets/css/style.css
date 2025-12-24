@@ -22,7 +22,7 @@ header {
 .header-left .logo {
   color: #fff;
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: 1rem;
   text-decoration: none;
   letter-spacing: 0.5px;
   transition: opacity 0.3s ease;
@@ -63,7 +63,6 @@ header {
     font-size: 0.9rem;
   }
 }
-
 
 /* =======================
    GLOBAL SETTINGS
@@ -243,7 +242,7 @@ footer {
   border-top: 1px solid rgba(255, 255, 255, 0.08);
   padding: 20px 50px;
   color: #aaa;
-  /*#22224c*/
+  /* #22224c */
 }
 
 .footer-content {
@@ -298,6 +297,9 @@ footer {
   }
 }
 
+/* =======================
+   NAVBAR LINK ANIMATION
+======================= */
 .nav-link {
   position: relative;
   color: #f4f4ff;
